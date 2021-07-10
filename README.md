@@ -21,7 +21,7 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 </ul>
 
 ### Personnal projects 🚧
-<ul>- Phil & Camil Flix - Historisation website of my training courses<br>
+<ul>- Phil & Camil Flix - Historisation website of my training courses https://github.com/Kaidjinn007/Camil-PhilFlix<br>
 
 <!--
 
