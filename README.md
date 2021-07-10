@@ -1,14 +1,13 @@
 ### Ohaïo Gozaïmashitaaaa 🏯
 
-Kaidjinn stands for foreigner with a connotation of uncivility and barbarity.
+Kaidjinn stands for foreigner with a connotation of uncivility and barbarity.<br>
 I believe a man evolves from state of coal to a diamond through hardship and pressure, adversity.
 
-- 🔭 Currently working on the Humanity First France Website as masterpiece
+- 🔭 Currently working on the Humanity First France website as masterpiece
 - 🌱 Currently learning PHP as a BackEnd Dev
 - 👯 I’m looking forward to build an education wepapp alike 'Open Classroom' and 'Grafikart'
-- :heartpulse:I love Twitter(too devisive to share)Animés (Naruto, Tokyo Revengers), Korean movies & dramas and Supervisor Dashboards
+- :heartpulse: I love Twitter(too devisive to share)Animés (Naruto, Tokyo Revengers..), Korean movies & dramas and 
 - 🦸🏽‍♂️ Usefull superpower: I get under your skin real quick
-- 🦸🏽‍♂️ Useless and unused superpower: I can drive people mad
 
 ### Simplon.co training projects 🏫
 
@@ -17,11 +16,12 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 - Make & process a form<br>
 - Build a chat https://github.com/Kaidjinn007/SimplonDWWM-Projet-Chat<br>
 - Build a rave techno music festival website : https://github.com/Kaidjinn007/Festival-Technonite-3<br>
+- Superblog : https://github.com/Kaidjinn007/SuperBlog
 - Masterpiece - Remodel the Humanity First website : https://github.com/Kaidjinn007/HF4
 </ul>
 
 ### Personnal projects 🚧
-<ul>- Phil & Camil Flix - Historisation website of my training courses https://github.com/Kaidjinn007/Camil-PhilFlix<br>
+<ul>- Phil & Camile Flix - Historisation website of my training courses https://github.com/Kaidjinn007/Camil-PhilFlix<br>
 
 <!--
 
