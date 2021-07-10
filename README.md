@@ -11,9 +11,11 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 
 ### Simplon.co training projects 🏫
 
-<ul>- Build a cutomer satifaction page<br>
+<ul>
+- Work with wordpress, implement a template : https://github.com/Kaidjinn007/WordpressBrief  
+- Build a cutomer satifaction page<br> https://github.com/Kaidjinn007/Form
 - Database modelisaiton<br>
-- Make & process a form<br>
+- Make & process a form<br> 
 - Build a chat https://github.com/Kaidjinn007/SimplonDWWM-Projet-Chat<br>
 - Build a rave techno music festival website : https://github.com/Kaidjinn007/Festival-Technonite-3<br>
 - Superblog : https://github.com/Kaidjinn007/SuperBlog
