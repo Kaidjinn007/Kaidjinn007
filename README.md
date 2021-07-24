@@ -9,7 +9,7 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 - :heartpulse: I love Twitter(too devisive to share)Animés (Naruto, Tokyo Revengers..), Korean movies & dramas
 - 🦸🏽‍♂️ Usefull superpower: I get under your skin real quick
 
-### Personnal projects 🚧
+### Pro projects 🚧
 <ul>The Humanity First France Website https://github.com/Kaidjinn007/HF5</ul>
 
 ### Personnal projects 🚧
