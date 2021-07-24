@@ -9,8 +9,13 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 - :heartpulse: I love Twitter(too devisive to share)Animés (Naruto, Tokyo Revengers..), Korean movies & dramas
 - 🦸🏽‍♂️ Usefull superpower: I get under your skin real quick
 
-### Simplon.co training projects 🏫
+### Personnal projects 🚧
+<ul>- The Humanity First Website https://github.com/Kaidjinn007/HF5</ul>
 
+### Personnal projects 🚧
+<ul>- Phil & Camile Flix - Historisation website of my training courses https://github.com/Kaidjinn007/Camil-PhilFlix</ul>
+
+### Simplon.co training projects 🏫
 <ul>
 - Work with wordpress, implement a template : https://github.com/Kaidjinn007/WordpressBrief<br>
 - Build a cutomer satifaction page : https://github.com/Kaidjinn007/Form<br>
@@ -21,12 +26,6 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 - Superblog : https://github.com/Kaidjinn007/SuperBlog<br>
 - Masterpiece - Remodel the Humanity First website : https://github.com/Kaidjinn007/HF4<br>
 </ul>
-
-### Personnal projects 🚧
-<ul>- Phil & Camile Flix - Historisation website of my training courses https://github.com/Kaidjinn007/Camil-PhilFlix<br>
-  
-### Pro projects 🚧
-<ul>- The Humanity First Website https://github.com/Kaidjinn007/HF5<br>
 
 <!--
 
