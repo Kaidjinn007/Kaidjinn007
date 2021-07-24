@@ -10,7 +10,7 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 - 🦸🏽‍♂️ Usefull superpower: I get under your skin real quick
 
 ### Personnal projects 🚧
-<ul>The Humanity First Website https://github.com/Kaidjinn007/HF5</ul>
+<ul>The Humanity First France Website https://github.com/Kaidjinn007/HF5</ul>
 
 ### Personnal projects 🚧
 <ul>Phil & Camile Flix - Historisation website of my training courses https://github.com/Kaidjinn007/Camil-PhilFlix</ul>
