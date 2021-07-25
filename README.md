@@ -24,7 +24,7 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 - Build a chat https://github.com/Kaidjinn007/SimplonDWWM-Projet-Chat<br>
 - Build a techno music festival website : https://github.com/Kaidjinn007/Festival-Technonite-3<br>
 - Superblog : https://github.com/Kaidjinn007/SuperBlog<br>
-- Masterpiece - Remodel the Humanity First website : https://github.com/Kaidjinn007/HF4<br>
+<!-- - Masterpiece - Remodel the Humanity First website : https://github.com/Kaidjinn007/HF4<br> -->
 </ul>
 
 <!--
