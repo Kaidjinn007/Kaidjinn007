@@ -7,7 +7,7 @@ I believe a man evolves from state of coal to a diamond through hardship and pre
 - 🌱 Currently learning PHP as a BackEnd Dev
 - 👯 I’m looking forward to build an education wepapp alike 'Open Classroom' and 'Grafikart'
 - :heartpulse: I love Twitter(too devisive to share)Animés (Naruto, Tokyo Revengers..), Korean movies & dramas
-- 🦸🏽‍♂️ Usefull superpower: I get under your skin real quick
+- 🦸🏽‍♂️ Usefull superpower: I get under your skin **real quick**
 
 ### Pro projects 🚧
 <ul>The Humanity First France Website https://github.com/Kaidjinn007/HF7</ul>
